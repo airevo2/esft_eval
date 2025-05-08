@@ -1,0 +1,15 @@
+# 设置常见大文件为二进制文件
+*.bin binary
+*.pt binary
+*.pth binary
+*.ckpt binary
+*.safetensors binary
+*.onnx binary
+*.h5 binary
+*.hdf5 binary
+*.model binary
+*.tar binary
+*.gz binary
+*.zip binary
+*.7z binary
+*.rar binary 

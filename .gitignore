@@ -1,0 +1,25 @@
+__pycache__/
+all_models/adapters/
+
+# 大文件类型
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.h5
+*.hdf5
+*.model
+*.tar
+*.gz
+*.zip
+*.7z
+*.rar
+
+# 日志和结果
+results/
+logs/
+
+# 缓存目录
+.cache/
